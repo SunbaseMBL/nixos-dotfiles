@@ -1,0 +1,12 @@
+[1]
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00Vfile:///home/user/Videos/Percy.Jackson.e.os.Olimpianos.S01E01-02.1080p.WEB-DL.DUAL.5.1\x00\x00\x00\x00\x01\x00\x00\x00\x95file:///home/user/Videos/Percy.Jackson.e.os.Olimpianos.S01E01-02.1080p.WEB-DL.DUAL.5.1/Percy.Jackson.e.os.Olimpianos.S01E01.1080p.WEB-DL.DUAL.5.1.mkv\x00\x00\x00\x01\x00\x00\x00\x95file:///home/user/Videos/Percy.Jackson.e.os.Olimpianos.S01E01-02.1080p.WEB-DL.DUAL.5.1/Percy.Jackson.e.os.Olimpianos.S01E01.1080p.WEB-DL.DUAL.5.1.mkv\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1
